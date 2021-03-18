@@ -1,0 +1,7 @@
+label,definition,uri
+Discovery Service,Services making it possible to search for spatial data sets and services on the basis of the content of the corresponding metadata and to display the content of the metadata.,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/discovery
+Download Service,Service that enables copies of spatial data sets, or parts of such sets, to be downloaded and, where practicable, accessed directly.,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/download
+Invoke Spatial Data Service,Service that allows defining both the data inputs and data outputs expected by the spatial service and a workflow or service chain combining multiple services. It also allows defining the external web service interface of the workflow or service chain.,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/invoke
+Other Service,,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/other
+Transformation Service,Service that enables spatial data sets to be transformed with a view to achieving interoperability.,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/transformation
+View Service,Service that makes it possible, as a minimum, to display, navigate, zoom in and out, pan or overlay viewable spatial data sets and to display legend information and any relevant content of metadata.,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/view
